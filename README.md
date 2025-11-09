@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Alikhan
-<img src="https://media.tenor.com/_n7-7ifNhhoAAAAj/azumanga-daioh-osaka.gif" height="64"/>
+<!-- <img src="https://media.tenor.com/_n7-7ifNhhoAAAAj/azumanga-daioh-osaka.gif" height="64"/> -->
 
 <h3 align="center">Software Developer</h3>
 
